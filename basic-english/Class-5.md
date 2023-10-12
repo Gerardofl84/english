@@ -32,3 +32,23 @@ unos en especial, que probablemente ya conocemos, por lo cual podemos
 diferenciar del resto.
 
 
+## To
+
+To es un auxiliar que los usamos de esta manera:
+
+```
+        accion
+           |
+Me gusta comer = Si tiene accion usamos el auxiliar "To"
+
+I like to eat
+```
+```
+           sin accion
+               |
+Me gusta la pelicula = Si No tiene accion No usamo el auxiliar.
+
+I like the movie
+```
+
+
